@@ -1,0 +1,48 @@
+body {
+  background-color: #f5c239;
+  font-family: Roboto;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Noto Sans Mono', sans-serif;
+}
+
+div {
+  padding: 20px;
+}
+
+footer {
+  padding-top: 20px;
+  background-color: #3862f5;
+  color: white;
+}
+
+.avatar {
+  background-color: #3862f5;
+  border: solid white;
+  border-radius: 30px;
+  width: 15rem;
+}
+
+.hobbies ul {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
+.gallery figure img {
+  border: solid #3862f5;
+  border-radius: 40px;
+  max-width: 100%;
+}
+
+.lit {
+  font-family: 'Noto Sans Mono', sans-serif;
+  text-align: left;
+  text-shadow: 0.1em 0.1em 0 white;
+}
